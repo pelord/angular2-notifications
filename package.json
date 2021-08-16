@@ -1,6 +1,6 @@
 {
   "publishConfig": {
-   "@pelordE:registry": "https://npm.pkg.github.com"
+   "@pelord:registry": "https://npm.pkg.github.com"
  },
   "name": "angular2-notifications",
   "typings": "./dist/index.d.ts",
